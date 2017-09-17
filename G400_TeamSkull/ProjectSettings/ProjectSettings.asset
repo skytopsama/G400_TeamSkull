@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: 49842cdd8848e44dbba9be042f2c94ea
+  productGUID: 745c9e6eb85c44b05a114496b22ec6c3
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: G400_TeamB
+  productName: G400_TeamSkull
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -404,7 +404,7 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
-  ps4Passcode: PN2qmWqBlQ9wQj99nsQzldVI5ZuGXbEW
+  ps4Passcode: mWqBlQ9wQj99nsQzldVI5ZuGXbEWRK5R
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -450,7 +450,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-  psp2PackagePassword: RK5RhRXdCdG5nG5azdNMK66MuCV6GXi5
+  psp2PackagePassword: hRXdCdG5nG5azdNMK66MuCV6GXi5xr84
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
@@ -505,14 +505,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: G400_TeamB
+  metroPackageName: G400_TeamSkull
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: G400_TeamB
+  metroApplicationDescription: G400_TeamSkull
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -583,13 +583,11 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled:
-    Collab: 1
-    UNet: 1
+  cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: a3ebe9d4-2bcf-4e48-9922-06226e6d2dca
-  projectName: G400_TeamB
+  cloudProjectId: 0f48c362-bb07-486b-b6ed-402686b3dd27
+  projectName: G400_TeamSkull
   organizationId: skytopsama
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
