@@ -28,7 +28,7 @@ public class MoveObject : MonoBehaviour {
 			gameObject.transform.position = new Vector3(
 				Mathf.Round(currentPos.x), 
 				Mathf.Round(currentPos.y), 
-				Mathf.Round(currentPos.z));
+				Mathf.Round(currentPos.z)-5);
 			
 			// if you want to smooth movement then lerp it
 
