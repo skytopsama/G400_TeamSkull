@@ -88,7 +88,9 @@ namespace TDTK {
 				
 				startPoint=wpList[i].position;
 			}
-		}
+
+            parentT.gameObject.SetActive(false);
+        }
 		
 		
 		

@@ -51,8 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\DragAndDrop.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\MoveObject.cs" />
+     <Compile Include="Assets\Scripts\ObjectFromButton.cs" />
+     <Compile Include="Assets\Scripts\SnapToGrid.cs" />
      <Compile Include="Assets\TDTK_Free\Scripts\AudioManager.cs" />
      <Compile Include="Assets\TDTK_Free\Scripts\BuildManager.cs" />
      <Compile Include="Assets\TDTK_Free\Scripts\CameraControl.cs" />
